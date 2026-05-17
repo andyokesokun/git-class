@@ -3,3 +3,17 @@ Learning Git hub
 Initalize a git repository
 
 >```git init```
+
+Check project status
+
+> ```git status ```
+
+Add changes to stage 
+
+> ```git add <filename | .>```
+
+Commit changes
+> ```git commit -m 'commit message' ```
+
+Push changes to origin
+> ```git push ```
